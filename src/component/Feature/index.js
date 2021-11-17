@@ -62,13 +62,13 @@ const Feature = () => {
         <Grid item md={3} className={classes.card}>
           <CachedSharpIcon className={classes.icon} />
           <Card>
-            <Typography align="center" sx={{ mt: 4 }}>
-              <Typography variant="h5" gutterBottom>
+            <Typography align="center" sx={{ mt: 4 }} variant="h1">
+              <Typography gutterBottom sx={{fontSize: 24, fontWeight: 500}}>
                 Marketing Consulting
               </Typography>
               <Typography
-                variant="subtitle1"
-                sx={{ fontWeight: 200 }}
+                
+                sx={{ fontWeight: 200, fontSize: 14 }}
                 gutterBottom
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -81,13 +81,13 @@ const Feature = () => {
         <Grid item md={3} className={classes.card}>
           <CachedSharpIcon className={classes.icon} />
           <Card>
-            <Typography align="center" sx={{ mt: 4 }}>
-              <Typography variant="h5" gutterBottom>
+            <Typography align="center" sx={{ mt: 4 }} variant="h1">
+              <Typography gutterBottom sx={{fontSize: 24, fontWeight: 500}}>
                 Marketing Consulting
               </Typography>
               <Typography
-                variant="subtitle1"
-                sx={{ fontWeight: 200 }}
+                
+                sx={{ fontWeight: 200, fontSize: 14 }}
                 gutterBottom
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -99,13 +99,13 @@ const Feature = () => {
         </Grid><Grid item md={3} className={classes.card}>
           <CachedSharpIcon className={classes.icon} />
           <Card>
-            <Typography align="center" sx={{ mt: 4 }}>
-              <Typography variant="h5" gutterBottom>
+            <Typography align="center" sx={{ mt: 4 }} variant="h1">
+              <Typography gutterBottom sx={{fontSize: 24, fontWeight: 500}}>
                 Marketing Consulting
               </Typography>
               <Typography
-                variant="subtitle1"
-                sx={{ fontWeight: 200 }}
+                
+                sx={{ fontWeight: 200, fontSize: 14 }}
                 gutterBottom
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -117,13 +117,13 @@ const Feature = () => {
         </Grid><Grid item md={3} className={classes.card}>
           <CachedSharpIcon className={classes.icon} />
           <Card>
-            <Typography align="center" sx={{ mt: 4 }}>
-              <Typography variant="h5" gutterBottom>
+            <Typography align="center" sx={{ mt: 4 }} variant="h1">
+              <Typography gutterBottom sx={{fontSize: 24, fontWeight: 500}}>
                 Marketing Consulting
               </Typography>
               <Typography
-                variant="subtitle1"
-                sx={{ fontWeight: 200 }}
+                
+                sx={{ fontWeight: 200, fontSize: 14 }}
                 gutterBottom
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -135,13 +135,13 @@ const Feature = () => {
         </Grid><Grid item md={3} className={classes.card}>
           <CachedSharpIcon className={classes.icon} />
           <Card>
-            <Typography align="center" sx={{ mt: 4 }}>
-              <Typography variant="h5" gutterBottom>
+            <Typography align="center" sx={{ mt: 4 }} variant="h1">
+              <Typography gutterBottom sx={{fontSize: 24, fontWeight: 500}}>
                 Marketing Consulting
               </Typography>
               <Typography
-                variant="subtitle1"
-                sx={{ fontWeight: 200 }}
+                
+                sx={{ fontWeight: 200, fontSize: 14 }}
                 gutterBottom
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -153,13 +153,13 @@ const Feature = () => {
         </Grid><Grid item md={3} className={classes.card}>
           <CachedSharpIcon className={classes.icon} />
           <Card>
-            <Typography align="center" sx={{ mt: 4 }}>
-              <Typography variant="h5" gutterBottom>
+            <Typography align="center" sx={{ mt: 4 }} variant="h1">
+              <Typography gutterBottom sx={{fontSize: 24, fontWeight: 500}}>
                 Marketing Consulting
               </Typography>
               <Typography
-                variant="subtitle1"
-                sx={{ fontWeight: 200 }}
+                
+                sx={{ fontWeight: 200, fontSize: 14 }}
                 gutterBottom
               >
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
